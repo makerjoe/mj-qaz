@@ -3,7 +3,8 @@ var filesToCache = [
   '/qaz',
   '/qaz/index.html',
   '/qaz/css/style.css',
-  '/qaz/js/main.js'
+  '/qaz/js/main.js',
+  '/qaz/js/app.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
