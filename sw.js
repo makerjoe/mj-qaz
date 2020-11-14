@@ -1,9 +1,9 @@
-var cacheName = 'hello-pwa';
+var cacheName = 'qaz-pwa';
 var filesToCache = [
-  '/hello',
-  '/hello/index.html',
-  '/hello/css/style.css',
-  '/hello/js/main.js'
+  '/qaz',
+  '/qaz/index.html',
+  '/qaz/css/style.css',
+  '/qaz/js/main.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
