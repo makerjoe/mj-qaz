@@ -8,7 +8,7 @@ var filesToCache = [
   '/qaz/pages/about.html
 ];
 
-/* Start the service worker and cache all of the app's content */
+/* Start the service worker and cache all of the apps content */
 self.addEventListener('install', function(e) {
   console.log('Start the service worker and cache all of the app's content')
   e.waitUntil(
