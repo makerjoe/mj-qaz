@@ -17,3 +17,4 @@ window.onload = () => {
     console.log('Registration failed with ' + error);
   });
 }
+}
