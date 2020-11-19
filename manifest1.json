@@ -4,7 +4,7 @@
   "scope":"https://makerjoe.github.io/qaz/",
   "description": "MJapp",
   "lang": "en-US",
-  "start_url": "/",
+  "start_url": "/qaz/index.html",
   "display": "standalone",
   "background_color": "#EE350F",
   "theme_color": "#EE350F",
