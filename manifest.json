@@ -28,6 +28,7 @@
     }],
   "lang": "en-US",
   "start_url": "/qaz/index.html",
+  "scope":"https://makerjoe.github.io/qaz",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "white"
