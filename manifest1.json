@@ -1,7 +1,7 @@
 {
   "name": "MJapp",
   "short_name": "MJapp",
-  "scope":" https://makerjoe.github.io/qaz/",
+  "scope":"https://makerjoe.github.io/qaz/",
   "description": "MJapp",
   "lang": "en-US",
   "start_url": "/",
