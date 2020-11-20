@@ -1,12 +1,12 @@
 var cacheName = 'qaz-pwa';
 var filesToCache = [
-  '/qaz',
-  '/qaz/index.html',
-  '/qaz/css/style.css',
-  '/qaz/js/main.js',
-  '/qaz/js/app.js',
-  '/qaz/pages/about.html',
-  '/qaz/pages/form.html'
+  '/',
+  '/index.html',
+  '/css/style.css',
+  '/js/main.js',
+  '/js/app.js',
+  '/pages/about.html',
+  '/pages/form.html'
 ];
 
 /* Start the service worker and cache all of the apps content */
