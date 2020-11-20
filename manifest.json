@@ -3,7 +3,7 @@
   "short_name": "MJapp",
   "description": "MJapp",
   "lang": "en-US",
-  "start_url": "/qaz/index.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#EE350F",
   "theme_color": "#EE350F",
