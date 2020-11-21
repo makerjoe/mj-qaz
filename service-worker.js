@@ -7,7 +7,8 @@ var filesToCache = [
   '/js/app.js',
   '/pages/about.html',
   '/pages/about.html',
-  '/framework7/'
+  '/framework7/js/framework7.bundle.js',
+  '/framework7/css/framework7.bundle.css
 ];
 
 /* Start the service worker and cache all of the apps content */
