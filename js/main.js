@@ -2,7 +2,7 @@ window.onload = () => {
   'use strict';
 
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/service-worker.js', { scope: '/' }).then(function(reg) {
+    navigator.serviceWorker.register('/qaz/service-worker.js', { scope: '/qaz/' }).then(function(reg) {
 
     if(reg.installing) {
       console.log('Service worker installing');
