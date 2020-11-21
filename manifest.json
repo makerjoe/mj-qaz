@@ -1,9 +1,9 @@
 {
-  "name": "MJapp",
-  "short_name": "MJapp",
+  "name": "MJappqaz",
+  "short_name": "MJappqaz",
   "description": "MJapp",
   "lang": "en-US",
-  "start_url": "/index.html",
+  "start_url": "/qaz/index.html",
   "display": "standalone",
   "background_color": "#EE350F",
   "theme_color": "#EE350F",
